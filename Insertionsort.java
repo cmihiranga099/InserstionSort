@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package insertionsort;
 
-/**
- *
- * @author cmihi
- */
+
 public class Insertionsort {
     
 
@@ -58,9 +52,6 @@ public static void insertionSortOP(int arr[]){
     }
 
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
  int arr[] = {4, 5, 8, 7 ,1};
         System.out.println("Swap method: ");
