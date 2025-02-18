@@ -1,10 +1,7 @@
 
 package implementingstacksusingarray;
 
-
-public class ImplementingStacksUsingArray {
-
-    class StackArray {
+ class StackArray {
     private int[] stack;
     private int top;
     private int capacity;
@@ -61,6 +58,9 @@ public class ImplementingStacksUsingArray {
         }
         System.out.println();
     }
+public class ImplementingStacksUsingArray {
+
+   
     
     public static void main(String[] args) {
        StackArray stack = new StackArray(5);
